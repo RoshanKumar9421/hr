@@ -42,7 +42,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 kisan sathi. All rights reserved.</p>
+        <p>&copy; 2024 kisan Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque expedita velit, molestias odit natus necessitatibus tempora officiis numquam, inventore nulla quos repellat ea! Veniam nam cumque maiores rerum iure placeat?</p>
     </footer>
 
     <script src="script.js"></script>
